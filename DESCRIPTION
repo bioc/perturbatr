@@ -1,7 +1,7 @@
 Package: perturbatr
 Type: Package
 Title: Statistical Analysis of High-Throughput Genetic Perturbation Screens
-Version: 1.15.0
+Version: 1.15.1
 Date: 2018-03-19
 Authors@R: person("Simon", "Dirmeier",
 	email = "simon.dirmeier@web.de", role = c("aut", "cre"))
@@ -74,3 +74,5 @@ Collate:
     'util_functions.R'
     'util_graph.R'
     'util_sampler.R'
+    'zzz.R'
+PackageStatus: Deprecated
